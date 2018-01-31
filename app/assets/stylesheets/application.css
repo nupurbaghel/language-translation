@@ -98,3 +98,14 @@ z-index:9999999;
  max-width:500px; 
  display: inline-block;
  }
+.Info-box{
+ display: flex;
+ flex:flex-wrap;
+ }
+.Info-box-title{
+ font-weight: bold;
+ width:40%;
+}
+.Info-box-descr{
+ width:60%;
+}
